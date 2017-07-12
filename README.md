@@ -22,7 +22,7 @@ Funcionalidades :
 	- With Auth or without.
 	- Exception control.	
 
-Parámetros :
+Parameters :
 	- sendTo : string -> Destinatario 
 	- sendFrom : string -> Remitente
 	- subject : string -> Asunto
